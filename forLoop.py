@@ -16,7 +16,7 @@ for artist in myList:
         break
     print(artist)
     
-print('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
+print('===================================================')
 
 for infos in my_dict:
     if infos == 'nationality':
